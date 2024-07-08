@@ -1,0 +1,2 @@
+UserID: 1  |   StockID: 1  |   '[19/04/2022 16:08:36]'  |   'CREATED 26 OF ITEM'  |   
+UserID: 1  |   StockID: 1  |   '[19/04/2022 16:14:03]'  |   'Removed 5 Of item '  |   

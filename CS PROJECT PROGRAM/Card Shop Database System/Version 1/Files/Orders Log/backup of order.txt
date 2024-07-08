@@ -1,0 +1,11 @@
+CustomerID | OrderTimeStamp | OrderCostSum |
+1 | 2 | [19/04/2022 16:17:16] | 3.78 | 
+
+--------------------------------------------
+
+ORDER BREAKDOWN
+
+Stock ID | Quantity Ordered | Sum |
+1 | 3 | 3.7800000000000002 |
+
+--------------------------------------------
